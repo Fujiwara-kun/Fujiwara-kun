@@ -1,8 +1,12 @@
 # Hi there 👋
 ## Backend engneer in Japan
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujiwara-kun&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=Fujiwara-kun&theme=onedark&show_icons=ture" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Fujiwara-kun}
-)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fujiwara-kun&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Fujiwara-kun/Fujiwara-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
