@@ -5,7 +5,6 @@ First year graduate student.
 I am currently job hunting and aiming to become a software engineer (backend).
 
 修士1年生
-
 現在就活中でソフトウェアエンジニア(バックエンド)の職を探しています。
 
 <p align="left"> 
