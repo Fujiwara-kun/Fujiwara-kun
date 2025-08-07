@@ -11,6 +11,8 @@ Currently seeking employment (2025)
 
 現在就活中でバックエンドエンジニアを目指して勉強しています。
 
+Ruby on railsが好きですが、Go langも扱えるようになりたいと思ってます。
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujiwara-kun&layout=compact&hide=jupyter%20notebook,dockerfile,shell,html,css,shaderlab,tex,c%23&show_icons=true&theme=onedark" />
 
