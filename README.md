@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Backend engneer in Japan
 
-First year postgraduate 
+First year graduate 
 
 Studying software engineering (back-end) 
 
