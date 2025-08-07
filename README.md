@@ -2,10 +2,13 @@
 ## Backend engneer in Japan
 
 First year postgraduate 
+
 Studying software engineering (back-end) 
+
 Currently seeking employment (2025)
 
 大学院1年生
+
 現在就活中でバックエンドエンジニアを目指して勉強しています。
 
 <p align="left"> 
