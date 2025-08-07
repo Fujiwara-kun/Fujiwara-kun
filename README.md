@@ -1,12 +1,12 @@
 # Hi there 👋
 ## Backend engneer in Japan
-First year graduate student.
 
-I am currently job hunting and aiming to become a software engineer (backend).
+First year postgraduate 
+Studying software engineering (back-end) 
+Currently seeking employment (2025)
 
-修士1年生
-
-現在就活中でソフトウェアエンジニア(バックエンド)の職を探しています。
+大学院1年生
+現在就活中でバックエンドエンジニアを目指して勉強しています。
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujiwara-kun&layout=compact&hide=jupyter%20notebook,dockerfile,shell,html,css,shaderlab,tex,c%23&show_icons=true&theme=onedark" />
