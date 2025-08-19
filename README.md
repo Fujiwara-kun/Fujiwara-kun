@@ -1,5 +1,4 @@
 # Hi there 👋
-## Backend engneer in Japan
 
 First year graduate 
 
